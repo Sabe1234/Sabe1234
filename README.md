@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sabrina.
-- 👀 I’m interested in Data Science/Machine Learning.
+- 👀 I’m interested in all things Tech.
 - 🌱 I’m currently learning Python and all the fun libraries.
 - 💞️ I’m looking to collaborate on various projects, preferably health related.
 - 📫 You can reach me by email.
